@@ -1,4 +1,4 @@
-# AQUA – AI Model Assistant for Water Quality
+# 🌊 AQUA – AI Model Assistant for Water Quality
 
 **AQUA** is an AI-powered web application that enables users to perform water quality assessments quickly and intuitively via a clean, interactive interface.
 
