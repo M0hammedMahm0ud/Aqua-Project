@@ -10,6 +10,7 @@
 body {
   font-family: "Poppins", sans-serif;
   line-height: 30px;
+  height: 100svh;
 }
 
 html {
@@ -76,7 +77,12 @@ a:hover {
 #experience {
   position: relative;
 }
-
+.metricsH2 {
+  color: rgb(85, 85, 85);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
 .mat-container {
   display: grid;
   text-align: start;
@@ -98,7 +104,6 @@ article .icon {
 
 .details-container {
   padding: 1.5rem;
-  background: white;
   border-radius: 2rem;
   border: rgb(163, 163, 163) 0.1rem solid;
   text-align: center;
@@ -190,4 +195,33 @@ footer {
 
 .footer-bottom a:hover {
   color: #fff;
+}
+@media screen and (max-width: 600px) {
+  .mat-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8rem;
+    gap: 1rem;
+  }
+  .details-container {
+    border: none;
+  }
+  .form-container {
+    display: flex;
+    flex-direction: column;
+  }
+  a {
+    display: none;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+  }
+  .metricsH2 {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
 }

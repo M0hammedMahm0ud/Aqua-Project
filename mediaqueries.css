@@ -57,7 +57,7 @@
     margin-bottom: 0;
   }
   article {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   footer nav {
     height: fit-content;
@@ -76,10 +76,10 @@
     font-size: 1rem;
   }
   .experience-sub-title {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
   .logo {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   .nav-links {
     flex-direction: column;
@@ -92,12 +92,16 @@
     justify-content: center;
   }
   .section__text__p2 {
-    font-size: 1.25rem;
+    font-size: 1rem;
   }
   .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .text-container {
     text-align: justify;
+  }
+  .mat-container {
+    display: flex;
+    flex-direction: column;
   }
 }

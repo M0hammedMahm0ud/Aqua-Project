@@ -6,10 +6,12 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   font-family: "Poppins", sans-serif;
+  height: 100svh;
 }
 
 html {
@@ -158,7 +160,6 @@ section {
   padding-top: 4vh;
   height: 90vh;
   margin: 0 10rem;
-  box-sizing: border-box;
   min-height: fit-content;
 }
 

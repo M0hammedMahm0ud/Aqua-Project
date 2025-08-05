@@ -108,6 +108,9 @@ footer {
   background-color: #222;
   color: #ddd;
   line-height: 2rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer-bottom {
