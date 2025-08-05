@@ -34,3 +34,9 @@
 | **Resources** | Guides, documentation, and AI methodology   |
 | **Contact** | Form to reach out to project maintainers      |
 
+## 📬 Get In Touch
+For questions, feedback, or collaboration inquiries, please use the **Contact** page on the live site.
+---
+## 🎯 Goal
+Provide an intuitive front-end gateway to an AI-powered water quality assistant. Ensures users can test, review, and learn with ease-all accessible from your Netlify-hosted link above.
+
