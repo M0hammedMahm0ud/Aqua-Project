@@ -33,15 +33,14 @@ html {
   }
 }
 /* NAVS */
-header,
-.nav-links {
-  display: flex;
-}
-
 header {
   justify-content: space-around;
   align-items: center;
-  height: 10vh;
+  height: 15vh;
+}
+header,
+.nav-links {
+  display: flex;
 }
 
 .nav-links {
