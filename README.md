@@ -18,9 +18,9 @@
 
 ---
 
-## ⚙️ Tech Stack (Assumed)
+## ⚙️ Tech Stack
 
-- **Frontend**: HTML/CSS/js, and routing for multi-page UI
+- **Frontend**: HTML/CSS/js
 - **Backend/API**: .Net, FastAPI
 - **AI/ML Model**: Python-based classification or regression model for water quality evaluation
 - **Database**: Microsoft SQL for persisting tests and user data
