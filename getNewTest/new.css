@@ -186,16 +186,6 @@ footer {
 .footer-bottom p {
   font-size: 13px;
 }
-
-.footer-bottom a {
-  color: #ddd;
-  text-decoration: none;
-  margin: 0 5px;
-}
-
-.footer-bottom a:hover {
-  color: #fff;
-}
 @media screen and (max-width: 600px) {
   .mat-container {
     display: flex;
