@@ -18,9 +18,9 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Full Project)
 
-- **Frontend**: HTML/CSS/js
+- **Frontend**: HTML/CSS/js (This Repo)
 - **Backend/API**: .Net, FastAPI
 - **AI/ML Model**: Python-based classification or regression model for water quality evaluation
 - **Database**: Microsoft SQL for persisting tests and user data
