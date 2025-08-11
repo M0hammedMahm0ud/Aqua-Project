@@ -2,7 +2,7 @@
 
 **AQUA** is an AI-powered web application that enables users to perform water quality assessments quickly and intuitively via a clean, interactive interface.
 
-**this repo is the UI only!!**
+**This repo is the UI only!!**
 
 🔗 Live Demo: https://aqua-ai-waterqualitysystem.netlify.app/
 
